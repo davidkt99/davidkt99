@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently working on a social media app using flutter!
 
 <!--
 **davidkt99/davidkt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
