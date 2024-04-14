@@ -1,4 +1,3 @@
-I'm currently working on a Dice/Calculator that uses instances to improve experience!
 
 <!--
 **davidkt99/davidkt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
